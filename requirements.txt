@@ -1,0 +1,4 @@
+BeautifulSoup4
+lxml
+regex
+tqdm>=4.65.0

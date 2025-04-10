@@ -1,0 +1,7 @@
+# Misc
+.DS_Store
+.env
+
+venv
+# Python
+__pycache__/
