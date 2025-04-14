@@ -83,6 +83,9 @@ The conversion algorithm:
 
 ## Running with the Shell Script
 
+```bash
+./setup.sh # Optional: Create a virtual environment
+```
 For convenience, you can also use the included shell script:
 
 ```bash
